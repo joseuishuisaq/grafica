@@ -1,3 +1,4 @@
 # grafica
 JOSÉ LUIS HUISA QUISPE 
-- quadtree.cpp llama a quadtree.h
+- quadtree.cpp toma una imagen y llama a quadtree.h
+- bezier.cpp son las curvas de Bézier
